@@ -1,4 +1,4 @@
-# IMDb Sentiment Analysis — Machine Learning Mini Project
+# IMDb Sentiment Analysis 
 
 This project implements the methodology described in the reference paper **“Machine Learning based classification for Sentimental analysis of IMDb reviews”** by Chun-Liang Wu and Song-Ling Shin.
 
